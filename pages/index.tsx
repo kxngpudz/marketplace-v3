@@ -29,14 +29,14 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Transform you IP into nft
+                  IP MARKETPLACE
                 </span>
                 <br />
-                testnet
+                Transform you IP into nft
               </h1>
               <p className={styles.heroSubtitle}>
               
-                to aid in the process of tranfering your IP to the block chain.
+                this website shows the IP that have been placed on the blockcahin as nfts.
               </p>
 
               <div className={styles.heroCtaContainer}>
