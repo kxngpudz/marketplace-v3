@@ -24,47 +24,31 @@ const Home: NextPage = () => {
               />
             </div>
           </div>
-          <div className={styles.heroAssetFrame}>
-            <Image
-              src="/hero-asset.png"
-              width={860}
-              height={540}
-              alt="Hero asset, NFT marketplace"
-              quality={100}
-              className={styles.heroAsset}
-            />
-          </div>
+  
           <div className={styles.heroBodyContainer}>
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Build NFT Marketplaces
+                  Transform you IP into nft
                 </span>
                 <br />
-                faster than ever.
+                testnet
               </h1>
               <p className={styles.heroSubtitle}>
-                <Link
-                  className={styles.link}
-                  href="https://thirdweb.com"
-                  target="_blank"
-                >
-                  thirdweb
-                </Link>{" "}
-                gives you the tools you need to create audited, performant, and
-                flexible NFT marketplaces in <b>hours</b>, <i>not months</i>.
+              
+                to aid in the process of tranfering your IP to the block chain.
               </p>
 
               <div className={styles.heroCtaContainer}>
                 <Link className={styles.heroCta} href="/buy">
-                  Get Started
+                  NFT Showcase
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://github.com/thirdweb-example/marketplace-v3"
+                  href="https://thirdweb.com/mumbai/0x601e7750a9E412aEBa4E832Ba715565c1e1D0a4C/nfts"
                   target="_blank"
                 >
-                  GitHub
+                  nft contract
                 </Link>
               </div>
             </div>
@@ -76,3 +60,4 @@ const Home: NextPage = () => {
 };
 
 export default Home;
+
