@@ -45,7 +45,7 @@ const Home: NextPage = () => {
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://thirdweb.com/mumbai/0x601e7750a9E412aEBa4E832Ba715565c1e1D0a4C/nfts"
+                  href="https://thirdweb.com/mumbai/0x9be11b77322d96bF3e598db868B20A463eae4bda/nfts"
                   target="_blank"
                 >
                   nft contract
