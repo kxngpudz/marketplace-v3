@@ -28,7 +28,7 @@ export function Navbar() {
               IP showcase
             </Link>
             <Link href="/sell" className={styles.link}>
-              List your ip
+              List
             </Link>
           </div>
         </div>
