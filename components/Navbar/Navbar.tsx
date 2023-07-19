@@ -24,10 +24,11 @@ export function Navbar() {
           </Link>
           
 
-          {  /**  <div className={styles.navMiddle}>
+            <div className={styles.navMiddle}>
             <Link href="/buy" className={styles.link}>
               IP showcase
             </Link>
+              {  /**
             <Link href="/sell" className={styles.link}>
               List
             </Link>
