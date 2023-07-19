@@ -25,10 +25,10 @@ export function Navbar() {
 
           <div className={styles.navMiddle}>
             <Link href="/buy" className={styles.link}>
-              NFT showcase
+              IP showcase
             </Link>
             <Link href="/sell" className={styles.link}>
-              Sell
+              List your ip
             </Link>
           </div>
         </div>
