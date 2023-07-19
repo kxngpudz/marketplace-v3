@@ -23,7 +23,7 @@ export function Navbar() {
             />
           </Link>
 
-         /**  <div className={styles.navMiddle}>
+          {  /**  <div className={styles.navMiddle}>
             <Link href="/buy" className={styles.link}>
               IP showcase
             </Link>
@@ -32,7 +32,7 @@ export function Navbar() {
             </Link>
           </div>
         </div>
- */
+ */}
         <div className={styles.navRight}>
           <div className={styles.navConnect}>
             <ConnectWallet theme="dark" btnTitle="Connect Wallet" />
