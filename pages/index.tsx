@@ -63,7 +63,7 @@ const Home: NextPage = () => {
                   className={styles.secondaryCta}
                   href="https://thirdweb.com/mumbai/0x9be11b77322d96bF3e598db868B20A463eae4bda/nfts"
                   target="_blank">
-                  Contribute to the Community
+                  Create NFT
                 </Link>
               </div>
             </div>
