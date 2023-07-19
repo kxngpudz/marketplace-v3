@@ -24,7 +24,7 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <div className={styles.sectionContainer}>
               <h2 className={styles.sectionTitle}>Blockchain, the backbone of Digital Ownership</h2>
-              <p className={styles.sectionDescription}>Blockchain is a technology that provides a growing list of data structures, called blocks, connected and secured by cryptography. It's the fundamental technology that powers this marketplace and ensures secure ownership of digital assets.</p>
+              <p className={styles.sectionDescription}>Blockchain is a technology that provides a growing list of data structures, called blocks, connected and secured by cryptography. It is the fundamental technology that powers this marketplace and ensures secure ownership of digital assets.</p>
               </div>
 
               {/* About Intellectual Property Section */}
@@ -42,15 +42,15 @@ const Home: NextPage = () => {
                 <h2 className={styles.sectionTitle}>Types of Intellectual Property</h2>
                 <p className={styles.sectionDescription}>
                 Patents: Blockchain technology can revolutionize how patents are managed. By recording patents on a blockchain, ownership becomes transparent and undisputable. Transactions are time-stamped and cannot be altered, providing a clear record of when an invention was patented. This marketplace takes it a step further, allowing you to tokenize your patent as an NFT. This means you can easily trade or sell your patent rights, all in a secure and efficient way.
-                <br></br><br></br>Trademarks: Trademarks are all about identity and recognition. With blockchain, trademark registrations can be securely stored and easily verified. The immutability of blockchain records ensures that a trademark's history cannot be tampered with. In our marketplace, trademarks can be tokenized and traded as NFTs. This opens up new opportunities for brand engagement and monetization.
-                <br></br><br></br>Copyrights: Copyright infringement is a serious problem in the digital age, but blockchain offers a solution. By registering your copyrighted work on a blockchain, you create an immutable record of your ownership. What's more, our marketplace enables you to tokenize your copyrighted works as NFTs. This means you can sell your work digitally, while retaining control over your copyright.
+                <br></br><br></br>Trademarks: Trademarks are all about identity and recognition. With blockchain, trademark registrations can be securely stored and easily verified. The immutability of blockchain records ensures that the history of a trademark  cannot be tampered with. In our marketplace, trademarks can be tokenized and traded as NFTs. This opens up new opportunities for brand engagement and monetization.
+                <br></br><br></br>Copyrights: Copyright infringement is a serious problem in the digital age, but blockchain offers a solution. By registering your copyrighted work on a blockchain, you create an immutable record of your ownership. Also, our marketplace enables you to tokenize your copyrighted works as NFTs. This means you can sell your work digitally, while retaining control over your copyright.
                 </p>
               </div>
               
               {/* About Smart Contracts Section */}
               <div className={styles.sectionContainer}>
                 <h2 className={styles.sectionTitle}>Smart Contracts: Powering Trust in Digital Transactions</h2>
-                <p className={styles.sectionDescription}>Smart contracts are executable codes that run on the blockchain to facilitate, execute, and enforce the terms of an agreement between untrusted parties. It's like a digital agreement that automatically executes itself once the agreed conditions are met.</p>
+                <p className={styles.sectionDescription}>Smart contracts are executable codes that run on the blockchain to facilitate, execute, and enforce the terms of an agreement between untrusted parties. It is like a digital agreement that automatically executes itself once the agreed conditions are met.</p>
               </div>
 
               {/* About NFT Section */}
