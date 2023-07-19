@@ -31,8 +31,9 @@ export function Navbar() {
               {  /**
             <Link href="/sell" className={styles.link}>
               List
-            </Link>
-          </div>*/}
+            </Link>*/}
+          </div>
+          
         </div>
  
         <div className={styles.navRight}>
