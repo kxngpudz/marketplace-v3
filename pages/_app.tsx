@@ -8,7 +8,7 @@ import "../styles/globals.css";
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThirdwebProvider
-      clientId={1cef40f90dbd39202eedcdd62bedb622}
+     clientId={process.env.NEXT_PUBLIC_THIRDWEB_CLIENT_ID}
       activeChain={NETWORK}
     >
       {/* Progress bar when navigating between pages */}
